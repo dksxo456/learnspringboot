@@ -29,7 +29,7 @@ class BusinessService{
 		System.out.println("Setter Injection");
 	}
 }
-//@Component 
+//@Component s 
 @Named
 class DataService{
 	
